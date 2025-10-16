@@ -4,11 +4,11 @@ import (
 	"errors"
 	"math"
 
+	"github.com/et-soft/turf-go/constants"
+	"github.com/et-soft/turf-go/conversions"
 	"github.com/tomchavakis/geojson"
 	"github.com/tomchavakis/geojson/feature"
 	"github.com/tomchavakis/geojson/geometry"
-	"github.com/tomchavakis/turf-go/constants"
-	"github.com/tomchavakis/turf-go/conversions"
 )
 
 // CircleOptions contains options for the Circle function

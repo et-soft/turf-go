@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/et-soft/turf-go/transformation"
 	"github.com/tomchavakis/geojson/geometry"
-	"github.com/tomchavakis/turf-go/transformation"
 )
 
 func main() {

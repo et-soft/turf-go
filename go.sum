@@ -1,2 +1,4 @@
 github.com/tomchavakis/geojson v0.0.5 h1:4A2lVdwhKurcjxhozIkXIZLzQl4Cdhh4zyIBtvcW6oE=
 github.com/tomchavakis/geojson v0.0.5/go.mod h1:cV7rPpWhNXW+WnHlIo3od3KKfiekyVqe0gG2N+krlB4=
+github.com/tomchavakis/turf-go v0.0.5 h1:+kQafGVE5slB/Q0iKA2q3bl0sSsi4xJsmCLn2IR3jsw=
+github.com/tomchavakis/turf-go v0.0.5/go.mod h1:YFsD+j5apnndklbjzrRUYhOiMaGZmjX7PQHHRA4ezMI=

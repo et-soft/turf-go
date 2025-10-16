@@ -3,11 +3,12 @@ package turf
 import (
 	"testing"
 
+	"github.com/et-soft/turf-go/assert"
+	"github.com/et-soft/turf-go/utils"
+	"
 	"github.com/tomchavakis/geojson"
 	"github.com/tomchavakis/geojson/feature"
-	"github.com/tomchavakis/geojson/geometry"
-	"github.com/tomchavakis/turf-go/assert"
-	"github.com/tomchavakis/turf-go/utils"
+	"github.com/et-soft/turf-go/utils"
 )
 
 func TestIntersect(t *testing.T) {

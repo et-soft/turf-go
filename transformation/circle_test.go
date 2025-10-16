@@ -3,10 +3,10 @@ package transformation
 import (
 	"testing"
 
+	"github.com/et-soft/turf-go/assert"
 	"github.com/tomchavakis/geojson"
 	"github.com/tomchavakis/geojson/feature"
 	"github.com/tomchavakis/geojson/geometry"
-	"github.com/tomchavakis/turf-go/assert"
 )
 
 func TestCircle(t *testing.T) {
