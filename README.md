@@ -57,6 +57,7 @@ This version also include the clustering module that doesn't exist in the offici
 - [ ] difference
 - [ ] dissolve
 - [x] intersect (in `transformation` package)
+- [x] circle (in `transformation` package)
 - [ ] lineOffset
 - [ ] simplify
 - [ ] tesselate
